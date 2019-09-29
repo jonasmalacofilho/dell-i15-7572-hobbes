@@ -12,6 +12,7 @@ _a Dell Inspiron 15 7572 laptop_
  - nouveau crashes:
     * blacklist it
  - enable early KMS:
+    * needed after upgrading to Gnome 3.34 and Linux 5.3
     * add `i915` to `/etc/mkinitcpio.conf:MODULES`
     * regenerate the initramfs with `mkinitcpio -p linux`
  - lm-sensors:
