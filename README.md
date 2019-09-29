@@ -1,4 +1,5 @@
-# Notes and config files for Hobbes – Dell Inspiron 15 7572 laptop
+# Notes and config files for Hobbes
+_a Dell Inspiron 15 7572 laptop_
 
 ## Linux
 
